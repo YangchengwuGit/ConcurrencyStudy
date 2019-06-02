@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Intellij
+.idea/
+*.iml
+*.iws
+**/out
+**/overlays/
+
+# Mac
+.DS_Store
+
+# Maven
+**/log/
+**/target
+**/*.log
+**/tmp
+**/.tmp
+**/bin/**
